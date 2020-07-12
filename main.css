@@ -1,0 +1,75 @@
+
+
+body{
+	background :#eeeeee;
+	margin: 0;
+	padding: 0;
+	
+}
+
+.tm-container{
+	
+	
+}
+.tm-header{
+	background:#1D5C73;
+	height :70px;
+	width: 100%;
+
+}
+
+
+.tm-nav ul li{
+	display:inline-block;
+	padding: 1px 10px 10px 10px; 
+}
+
+
+.tm-nav ul li a{
+	padding: 5px 90px 5px 90px;
+	text-decoration:none;
+	color:#FFFFFF;
+	line-height: 0px;
+	font-size:20;
+}
+.tm-logo{
+	float: left;
+	padding: 10px;
+	width: 60PX;
+    
+}
+.tm-nav{
+	float: right;
+}
+.background-wrap{
+	background-size: cover;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: -1000;
+	overflow: hidden;
+}
+.marquee{overflow: hidden;
+	font-size: 20;
+	color: #F8F711;
+}
+.image{
+	max-width: 100%;
+	position: relative;
+	padding: 45px;
+	border-radius: 50%;
+}
+.bio{
+	position: relative;
+	max-width: 100%;
+	min-width: 50px;
+	margin: 50px;
+	background: #269AA7;
+	width: 700;
+	padding: 40px;
+	float: right;
+	opacity: 0.9;
+	
+}
