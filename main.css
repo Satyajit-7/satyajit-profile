@@ -39,7 +39,7 @@ body{
 	float: right;
 }
 .background-wrap{
-	background-size: cover;
+	object-fit:cover;
 	position: fixed;
 	top: 0;
 	left: 0;
