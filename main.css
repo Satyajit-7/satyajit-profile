@@ -44,7 +44,7 @@ body{
 	top: 0;
 	left: 0;
 	z-index: -1000;
-	
+	pointer-events: none;
 }
 .marquee{overflow: hidden;
 	font-size: 20;
